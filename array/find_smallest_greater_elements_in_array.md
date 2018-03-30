@@ -47,6 +47,7 @@ function takeOutNextLargest(arr){
       }
     }
   }
+  console.log(finalArray)
 }
 
 takeOutNextLargest(arr);
