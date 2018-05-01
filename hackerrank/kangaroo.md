@@ -44,7 +44,7 @@ From the image, it is clear that the kangaroos meet at the same location (number
 
 ```NO```
 
-Solution:
+## Solution:
 ### Language : Python
 ```python
 #!/bin/python3
