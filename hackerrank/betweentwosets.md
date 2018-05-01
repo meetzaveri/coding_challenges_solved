@@ -1,5 +1,7 @@
 ## Between Two Sets
 
+Problem Link - https://www.hackerrank.com/challenges/between-two-sets/problem
+
 You will be given two arrays of integers. You will be asked to determine all integers that satisfy the following two conditions:
 
 The elements of the first array are all factors of the integer being considered
