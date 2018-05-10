@@ -40,7 +40,8 @@ She broke her best record twice (after games  and ) and her worst record four ti
 
 Problem Link - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
-Solution -
+## Solution 
+Language - Python
 
 ```python
 def breakingRecords(score):
