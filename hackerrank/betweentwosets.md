@@ -36,6 +36,8 @@ Explanation
 4, 8 and 16 are the only three numbers for which each element of A is a factor and each is a factor of all elements of B.
 
 ### Solution:
+Language - Python
+
 ```python
 def getTotalX(a, b):
     #
