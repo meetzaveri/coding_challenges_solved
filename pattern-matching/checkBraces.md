@@ -8,7 +8,7 @@ Check braces in particular order as compiler checks in its way. Return an array 
 ### Output
 ['YES','NO']
 
-
+Is this solution optimal? No. But I have put effor and will reach the boundaries where it can work with all test cases 
 
 ### Code
 
