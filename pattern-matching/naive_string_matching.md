@@ -1,3 +1,26 @@
+Pseudocode :
+    
+    `
+    // Return an array which contains all valid shifts in text (str)
+       NaiveMethod(text, pattern) {
+          N = length(text);
+          M = length(patter,);
+          limit = N-M;
+          j = 0, k = 0;
+          arrayOfValidShift[];
+          for(i = 0; i <= limit; i++){
+          j = 0;
+          k = i;
+            for(j = 0; j <= M AND str[k] == pat[j]; j++)
+              k++;
+              if(j >= M)
+              Add i to arrayOfValidShift;
+            }
+          return arrayOfValidShift;
+        }
+    `
+Code(Python)
+```python
 def searchpattern(text,pattern):
     lenoftext = len(text)
     lenofpattern = len(pattern)
@@ -20,3 +43,4 @@ def searchpattern(text,pattern):
 
 
 searchpattern('the hat and pat fluff', 'at') # [5,13]
+```
