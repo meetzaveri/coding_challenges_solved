@@ -1,6 +1,8 @@
 # Rod cutting problem
 
-Dynamic Programming Approach
+Dynamic Programming Approach (The Bottom Up strategy which eliminates recursion)
+- No memoization
+- Time complexity - O(n<sup>2</sup>)
 
 ```python
 
